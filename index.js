@@ -8,3 +8,4 @@ removeMain.remove();
 
 var addH1 = document.document.createElement('h1');
 var text = document.createTextNode("Alex is the champion!");
+h.appendChild(t);
