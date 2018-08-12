@@ -6,6 +6,6 @@
 var removeMain = document.getElementById('main');
 removeMain.remove();
 
-var addH1 = document.document.createElement('h1');
-var text = document.createTextNode("Alex is the champion!");
+var h = document.document.createElement('h1');
+var t = document.createTextNode("Alex is the champion!");
 h.appendChild(t);
