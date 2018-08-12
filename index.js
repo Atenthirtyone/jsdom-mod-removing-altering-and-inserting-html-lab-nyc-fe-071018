@@ -6,4 +6,4 @@
 var removeMain = document.getElementById('main');
 removeMain.remove();
 
-var addH1 = document.add
+var addH1 = document.document.createElement('h1');
